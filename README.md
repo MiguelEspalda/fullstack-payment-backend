@@ -20,7 +20,7 @@ Este es el backend de una aplicación de ecommerce simple, desarrollado como par
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/MiguelEspalda/backend-test.git
+git clone https://github.com/MiguelEspalda/fullstack-payment-backend.git
 cd backend-test
 ```
 
